@@ -6,3 +6,6 @@
 
 - **Nombre Completo:** [Juan José Perea Martinez] | **Código:** [63013]
 > *¿Por qué me gusta la programación?:* [Porque la promación para mi es un arte, en donde peudo crear un mundo virtual en que la gente me puede enteder y yo puedo entender a la gente y hacer el bien para la gente que lo necesita. Porque, programar es el ahora y es el futuro del mundo y yo quiero hacer parte de el.]
+
+- **Nombre Completo:** Brayan Stiven Gallego Lopez | **Código:** 0000005324
+> *¿Por qué me gusta la programación?:* me gusta la idea de poder resolver problemas por medio de una aplicacion o pagina.

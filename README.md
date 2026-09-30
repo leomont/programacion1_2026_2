@@ -9,3 +9,6 @@
 
 - **Nombre Completo:** Brayan Stiven Gallego Lopez | **Código:** 0000005324
 > *¿Por qué me gusta la programación?:* me gusta la idea de poder resolver problemas por medio de una aplicacion o pagina.
+
+- **Nombre Completo:** Martin Galarza | **Código:** [Tu codigo]
+> *¿Por qué me gusta la programación?:* [¿Por que me gusta la programaión, minimo 2 renglones, sé creativo]

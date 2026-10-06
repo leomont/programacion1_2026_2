@@ -12,3 +12,6 @@
 
 - **Nombre Completo:** Martin Alonso Galarza Rodriguez | **Código:** [20681]
 > *¿Por qué me gusta la programación?:*  porque entrena mi capacidad de análisis y pensamiento crítico. Desarrollar el hábito de descomponer problemas complejos, encontrar fallos y optimizar procesos me da una estructura lógica que trasciende la pantalla y me permite organizar y resolver cualquier desafío en mi vida diaria.
+
+**Nombre Completo:** Daniel Estiven Cortes Bueno | **Código:** [65534]
+> *¿Por qué me gusta la programación?:* Me gustanla programacion por que me gusta mucho el analisis de diferentes situaciiones, problemas etc. Tambien ya que me gusta conocer mucho mas a fondo como funcionan las diferentes aplicaciones, juegos y sitios web los cuales son de uso diario para mi dia a dia. 
